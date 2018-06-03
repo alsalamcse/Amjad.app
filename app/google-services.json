@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48785271596",
+    "firebase_url": "https://amjadapp-d4a4d.firebaseio.com",
+    "project_id": "amjadapp-d4a4d",
+    "storage_bucket": "amjadapp-d4a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48785271596:android:e6daacea127c44b3",
+        "android_client_info": {
+          "package_name": "com.draz.amjad.amjadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48785271596-onu5mt1jhdg0pcjqf4vpvqqt88djndpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.draz.amjad.amjadapp",
+            "certificate_hash": "013f43c9a5d380c46de43c04644418dbe5d2a253"
+          }
+        },
+        {
+          "client_id": "48785271596-its3m95spg45n97cg51hi00rrmv81g38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBu-ViR5mCkcI7ji9sjzF3PvalZ0k4Rk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48785271596-its3m95spg45n97cg51hi00rrmv81g38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
