@@ -22,7 +22,6 @@ import android.widget.TextView;
 import com.draz.amjad.amjadapp.myFragments.DrinksScreen;
 import com.draz.amjad.amjadapp.myFragments.MainMeal;
 import com.draz.amjad.amjadapp.myFragments.SecondMeal;
-import com.draz.amjad.amjadapp.myFragments.addmeal;
 
 public class MainActivity extends AppCompatActivity {
 

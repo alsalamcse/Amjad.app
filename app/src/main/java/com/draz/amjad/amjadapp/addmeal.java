@@ -1,4 +1,4 @@
-package com.draz.amjad.amjadapp.myFragments;
+package com.draz.amjad.amjadapp;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -8,7 +8,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.draz.amjad.amjadapp.R;
 import com.draz.amjad.amjadapp.data.Proudct;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -28,7 +27,6 @@ public class addmeal extends AppCompatActivity implements View.OnClickListener{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_meal);
         etMM=(EditText)findViewById(R.id.etMM);
-        etSM=(EditText)findViewById(R.id.etAmount);
         etDrink=(EditText)findViewById(R.id.etDrink);
         btnSave=(Button) findViewById(R.id.btnSave);
         btnSave.setOnClickListener(new View.OnClickListener() {
